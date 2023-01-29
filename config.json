@@ -1,0 +1,8 @@
+{
+    "BotToken": "MTA2ODAwMTI0MDgzNzAxNzYwMA.GK8CDs.WMoDRAlgJPeSgIyDNFacEM5vIhvjLdcKPWndeo",
+    "URLsToCheck": [
+        "https://jmtk.co/time.html"
+    ],
+    "ChannelIDToPostTo": "1069044234121920626",
+    "FrequencyToCheckInSeconds": 1
+}
